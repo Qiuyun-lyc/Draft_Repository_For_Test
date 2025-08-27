@@ -1,0 +1,7 @@
+#include<iostreeam>
+using namespace std;
+int main()
+{
+  cout << "hello galgame" << endl;
+  return 0;
+}
